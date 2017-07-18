@@ -1,0 +1,28 @@
+/* Acá van tus estilos */
+
+
+.imagen{
+	height: 7vh;
+
+
+	/*amaño y forma de las fotos del chat*/
+
+	
+}
+
+nav{
+	background-color: grey;
+	border: none;
+}
+
+
+body {
+  background-color: whitesmoke;
+  padding: 0;
+  margin: 0;
+}
+
+form {
+
+display: inline-block;
+}
